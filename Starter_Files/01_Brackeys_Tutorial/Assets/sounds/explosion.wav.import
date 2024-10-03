@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bv5pmdha600lx"
-path="res://.godot/imported/explosion.wav-b0b0b2b4c8e832cd179731806bce142f.sample"
+path="res://.godot/imported/explosion.wav-fceab7c271380675d6c71c633d8ac298.sample"
 
 [deps]
 
-source_file="res://Starter Files/01_Brackeys_Tutorial/Assets/sounds/explosion.wav"
-dest_files=["res://.godot/imported/explosion.wav-b0b0b2b4c8e832cd179731806bce142f.sample"]
+source_file="res://Starter_Files/01_Brackeys_Tutorial/Assets/sounds/explosion.wav"
+dest_files=["res://.godot/imported/explosion.wav-fceab7c271380675d6c71c633d8ac298.sample"]
 
 [params]
 

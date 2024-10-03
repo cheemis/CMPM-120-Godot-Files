@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bped01tsjeycn"
-path="res://.godot/imported/coin.png-07db76bd0f8f01c1958facda06d97665.ctex"
+uid="uid://d0q2g65ahgok"
+path="res://.godot/imported/world_tileset.png-4de8fc81bc6b562fe2463c70553c2ea2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Starter Files/01_Brackeys_Tutorial/Assets/sprites/coin.png"
-dest_files=["res://.godot/imported/coin.png-07db76bd0f8f01c1958facda06d97665.ctex"]
+source_file="res://Starter_Files/01_Brackeys_Tutorial/Assets/sprites/world_tileset.png"
+dest_files=["res://.godot/imported/world_tileset.png-4de8fc81bc6b562fe2463c70553c2ea2.ctex"]
 
 [params]
 

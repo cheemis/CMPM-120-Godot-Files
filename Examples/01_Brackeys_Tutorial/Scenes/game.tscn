@@ -2,13 +2,13 @@
 
 [ext_resource type="Script" path="res://Examples/01_Brackeys_Tutorial/Scripts/game_manager.gd" id="1_l4ihi"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://Examples/01_Brackeys_Tutorial/Scenes/player.tscn" id="1_rbmkf"]
-[ext_resource type="FontFile" uid="uid://c53kogtyjwsss" path="res://Starter Files/01_Brackeys_Tutorial/Assets/fonts/PixelOperator8-Bold.ttf" id="2_nlliu"]
-[ext_resource type="Texture2D" uid="uid://d0q2g65ahgok" path="res://Starter Files/01_Brackeys_Tutorial/Assets/sprites/world_tileset.png" id="2_r1crl"]
+[ext_resource type="FontFile" uid="uid://c53kogtyjwsss" path="res://Starter_Files/01_Brackeys_Tutorial/Assets/fonts/PixelOperator8-Bold.ttf" id="2_nlliu"]
+[ext_resource type="Texture2D" uid="uid://d0q2g65ahgok" path="res://Starter_Files/01_Brackeys_Tutorial/Assets/sprites/world_tileset.png" id="2_r1crl"]
 [ext_resource type="PackedScene" uid="uid://bgv5v2fxqlswe" path="res://Examples/01_Brackeys_Tutorial/Scenes/platform.tscn" id="3_cmfc3"]
 [ext_resource type="PackedScene" uid="uid://pqp5qaw561fr" path="res://Examples/01_Brackeys_Tutorial/Scenes/coin.tscn" id="4_28cek"]
 [ext_resource type="PackedScene" uid="uid://dtrbka1ef726o" path="res://Examples/01_Brackeys_Tutorial/Scenes/killzone.tscn" id="5_x8euu"]
 [ext_resource type="PackedScene" uid="uid://d2w2i5h0lhc6l" path="res://Examples/01_Brackeys_Tutorial/Scenes/slime.tscn" id="6_l0s6b"]
-[ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://Starter Files/01_Brackeys_Tutorial/Assets/fonts/PixelOperator8.ttf" id="7_8cblx"]
+[ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://Starter_Files/01_Brackeys_Tutorial/Assets/fonts/PixelOperator8.ttf" id="7_8cblx"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ashvg"]
 texture = ExtResource("2_r1crl")
