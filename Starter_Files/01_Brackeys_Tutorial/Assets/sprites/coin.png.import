@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bped01tsjeycn"
-path="res://.godot/imported/coin.png-862e024012929ea6011210b47486bb85.ctex"
+path="res://.godot/imported/coin.png-18eae97aafc6e4352e0e1581282d4c73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Starter_Files/01_Brackeys_Tutorial/Assets/sprites/coin.png"
-dest_files=["res://.godot/imported/coin.png-862e024012929ea6011210b47486bb85.ctex"]
+source_file="res://starter_files/01_brackeys_tutorial/assets/sprites/coin.png"
+dest_files=["res://.godot/imported/coin.png-18eae97aafc6e4352e0e1581282d4c73.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gx1xihdbejvu"
-path="res://.godot/imported/fruit.png-f247f2c87430070c4c56c4e8fb851f3e.ctex"
+path="res://.godot/imported/fruit.png-3bc8305bf9e4053f31d861332574092f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Starter_Files/01_Brackeys_Tutorial/Assets/sprites/fruit.png"
-dest_files=["res://.godot/imported/fruit.png-f247f2c87430070c4c56c4e8fb851f3e.ctex"]
+source_file="res://starter_files/01_brackeys_tutorial/assets/sprites/fruit.png"
+dest_files=["res://.godot/imported/fruit.png-3bc8305bf9e4053f31d861332574092f.ctex"]
 
 [params]
 

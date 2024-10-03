@@ -1,8 +1,8 @@
 [gd_scene load_steps=21 format=3 uid="uid://pqp5qaw561fr"]
 
-[ext_resource type="Texture2D" uid="uid://bped01tsjeycn" path="res://Starter_Files/01_Brackeys_Tutorial/Assets/sprites/coin.png" id="1_hrxtj"]
-[ext_resource type="Script" path="res://Examples/01_Brackeys_Tutorial/Scripts/coin.gd" id="1_ix6bn"]
-[ext_resource type="AudioStream" uid="uid://hxv3svfwkg67" path="res://Starter_Files/01_Brackeys_Tutorial/Assets/sounds/coin.wav" id="3_ag2jy"]
+[ext_resource type="Texture2D" uid="uid://bped01tsjeycn" path="res://starter_files/01_brackeys_tutorial/assets/sprites/coin.png" id="1_hrxtj"]
+[ext_resource type="Script" path="res://examples/01_brackeys_tutorial/scripts/coin.gd" id="1_ix6bn"]
+[ext_resource type="AudioStream" uid="uid://hxv3svfwkg67" path="res://starter_files/01_brackeys_tutorial/assets/sounds/coin.wav" id="3_ag2jy"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1fm7y"]
 atlas = ExtResource("1_hrxtj")

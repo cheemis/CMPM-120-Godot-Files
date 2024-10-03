@@ -11,9 +11,8 @@ config_version=5
 [application]
 
 config/name="CMPM 120 Godot Demo Files"
-run/main_scene="res://Examples/01_Brackeys_Tutorial/Scenes/game.tscn"
+run/main_scene="res://examples/01_brackeys_tutorial/scenes/game.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
-config/icon="res://icon.svg"
 
 [input]
 
